@@ -20,11 +20,11 @@ AirBnB (Seattle)
 3. These tables was added to tableau and a join was done on the  tables.
 4. A dashboard was created to analyis:
 
-  a. The most commerically profitable zipcodes.
+    a. The most commerically profitable zipcodes.
 
-  b. Avg. cost for bedrooms(1b,2b etc). where b is bedroom
+    b. Avg. cost for bedrooms(1b,2b etc). where b is bedroom
 
-  c. Total revenue for bedrooms.
+    c. Total revenue for bedrooms.
   
-  d. Competition 
+    d. Competition 
 
